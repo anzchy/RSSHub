@@ -9,7 +9,7 @@ export const route: Route = {
     path: '/following/:user',
     categories: ['blog'],
     example: '/medium/following/imsingee',
-    parameters: { user: 'Username' },
+    parameters: { user: 'anzchy' },
     features: {
         requireConfig: [
             {
