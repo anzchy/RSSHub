@@ -13,7 +13,7 @@ export const route: Route = {
     features: {
         requireConfig: [
             {
-                name: 'MEDIUM_COOKIE_*',
+                name: '_ga=GA1.1.175853433.1731168916; sid=1:o6G92FNXh/c4WYPq6dmOL7ymmm3PkSQ9ycV7GHYRtDoOTz9qj+sOL8kDPegMc6Q9; uid=c36a70ea5d2e; _cfuvid=PW25G5NeQ4AYQs8vJzUbEGZVwG69oYuZUF4ehfYHKPk-1731169428055-0.0.1.1-604800000; _ga_7JY7T788PK=GS1.1.1731168916.1.1.1731169473.0.0.0; cf_clearance=z6naSvakwTeIW6lhwCNnu1aOtbsnzqIK7VQd99BqSd0-1731169474-1.2.1.1-yDW75S5gT0wh484K19vXO5YRQt8oAKe.3zrZYykw.Dfn7LG.ffif4FQlhh5Ar1iF1QHlJHVEQygbiS3C.NWJwHNOdRe2UltDZzDDrwsVpP5N_OCVG8.nLl73Mf49nqnfRVFcHnobfD4ifsS9C2ih2y_FLmSBed7_84ZdQeuZvwJwV5mEc6sNRUWyTQy8Uu1KjBZ9DA83RDtgBwEK0m5rQQFndpNUnZdWsfFd3ioiDxuxq3ZnFpPcjCMtJ6fyJzLoZj6FU_9S6HwIv7MmvpqkwyjWrG5JzoUP8f1Eda1AwGaPjXb.OC4E090MqMlvHoKp4LkTBQOgP5FXZpL_uGKsudq95kmI4M1voYCXHqvi9.JNBq87Nb_l3z965AQXB1KfMz5dJ1cNvw1Pw5Y1UpIlepxxz.ONNWPdrhpvsvXTOAA',
                 description: '',
             },
         ],
